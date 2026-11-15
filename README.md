@@ -1,3 +1,8 @@
+ISN-02 Mark II – Preliminary Conceptual Design and Computational Simulation
+
+An exploratory research project proposing an Intravascular Surveillance Nanobot (ISN-02 Mark II), supported by preliminary 3D CAD modelling and computational simulations. This repository documents the proposed architecture, theoretical design assumptions, and early simulation frameworks for future investigation.
+
+Research status: Conceptual and computational development only. The proposed system is not a functional, experimentally validated, or clinically tested medical device.
 # ISN-02 Mark II Simulation
 
 ## Overview
